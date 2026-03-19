@@ -14,22 +14,30 @@ This project analyzes intern performance using a structured dataset to derive me
 * Prepared preprocessing documentation
 
 ---
+## 📊 Sprint 2 – Exploratory Data Analysis (EDA)
 
-## Sprint 2 – Exploratory Data Analysis (EDA)
-
-* Analyzed dataset using summary statistics
+* Performed exploratory data analysis on the dataset
+* Analyzed numerical data using summary statistics
 * Explored categorical columns using value counts
-* Identified basic patterns and distributions
+* Checked data distribution and basic patterns
+* Created new columns:
+
+  * Task Completion %
+  * Performance Level (High / Medium / Low)
+* Prepared the dataset for visualization in Power BI
+
 
 ---
 
 ## 📁 Files
 
-* `Intern_Insight_dataset.csv` → Dataset
-* `Internship_dataset.ipynb` → Dataset creation
+* `Intern_Insight_dataset.csv` → Raw dataset
+* `processed_intern_data.csv` → Cleaned and preprocessed dataset
+* `Internship_dataset.ipynb` → Dataset creation (Google Colab)
 * `Data_cleaning.ipynb` → Data preprocessing
-* `EDA_Preprocessing.ipynb` → Exploratory Data Analysis
-* `Data Preprocessing Documentation.pdf` → Documentation
+* `EDA_Preprocessing.ipynb` → Exploratory Data Analysis (EDA)
+* `Data Preprocessing Documentation.pdf` → Preprocessing documentation
+
 
 ---
 
