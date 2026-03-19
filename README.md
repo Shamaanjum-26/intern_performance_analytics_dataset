@@ -28,7 +28,7 @@ This project analyzes intern performance using a structured dataset to derive me
 ## 📁 Files
 
 * `Intern_Insight_dataset.csv` → Raw dataset
-* `processed_intern_data.csv` → Cleaned and preprocessed dataset
+* `intern_dataset.csv` → Cleaned and preprocessed dataset
 * `Internship_dataset.ipynb` → Dataset creation (Google Colab)
 * `Data_cleaning.ipynb` → Data preprocessing
 * `EDA_Preprocessing.ipynb` → Exploratory Data Analysis (EDA)
