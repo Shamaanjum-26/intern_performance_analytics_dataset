@@ -21,6 +21,7 @@ This project analyzes intern performance using a structured dataset to derive me
 * Explored categorical columns using value counts
 * Checked data distribution and basic patterns
 * Prepared the dataset for visualization in Power BI
+* Created basic visualization
 
 
 ---
@@ -33,6 +34,7 @@ This project analyzes intern performance using a structured dataset to derive me
 * `Data_cleaning.ipynb` → Data preprocessing
 * `EDA_Preprocessing.ipynb` → Exploratory Data Analysis (EDA)
 * `Data Preprocessing Documentation.pdf` → Preprocessing documentation
+
 
 
 ---
