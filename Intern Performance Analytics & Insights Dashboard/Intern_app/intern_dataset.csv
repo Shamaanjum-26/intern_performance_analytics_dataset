@@ -1,0 +1,101 @@
+Intern_ID,Intern_Name,Age,Gender,College_Name,Degree,Department,City,Internship_Mode,Internship_Duration_Months,Project_Assigned,Mentor_Name,Tasks_Assigned,Tasks_Completed,Attendance_Percentage,Late_Submissions,Meetings_Attended,Communication_Score,Technical_Score,Teamwork_Score,Problem_Solving_Score,Final_Performance_Rating,Certificate_Eligible,Placement_Recommended,Stipend
+1,Manikandan,24,Female,University of Madras,MCA,AI,Madurai,Onsite,6,ML Prediction Model,Karthik,24,27,72,2,7,2,4,1,2,5,No,Yes,5000
+2,Elango,20,Female,Amrita Vishwa Vidyapeetham Coimbatore,B.Tech,Data Science,Coimbatore,Onsite,2,Sales Analytics,Ravi,19,14,74,0,15,4,3,5,3,1,Yes,Yes,0
+3,Senthil Kumar,24,Female,Saveetha Engineering College,BCA,Cloud,Erode,Remote,6,Intern Insight Dashboard,Prakash,23,34,77,3,16,2,4,1,2,1,Yes,Yes,0
+4,Deepak Kumar,21,Male,Loyola College Chennai,BCA,Cloud,Trichy,Onsite,1,Customer Analysis,Karthik,32,11,80,2,11,2,1,3,3,2,Yes,Yes,8000
+5,Praveen Kumar,21,Male,Bharathidasan University,B.Tech,Cloud,Salem,Onsite,1,Customer Analysis,Ravi,19,18,76,3,6,3,2,1,4,2,Yes,Yes,0
+6,Madhan,20,Female,SSN College of Engineering,B.Tech,Data Science,Salem,Onsite,1,Customer Analysis,Suresh,37,33,90,4,14,1,3,2,4,5,Yes,No,5000
+7,Keerthana,24,Male,Coimbatore Institute of Technology,B.Sc,Cloud,Salem,Remote,1,Customer Analysis,Suresh,34,34,85,2,5,4,5,2,5,3,Yes,No,8000
+8,Vinodhini,20,Female,Velammal Engineering College,B.Sc,Full Stack,Coimbatore,Onsite,3,Data Visualization,Ravi,26,18,89,2,16,4,1,5,4,2,No,Yes,0
+9,Anupriya,21,Male,Velammal Engineering College,BCA,AI,Madurai,Onsite,3,Data Visualization,Ravi,15,21,92,3,10,5,1,2,1,4,Yes,Yes,8000
+10,Shobana,21,Male,Kumaraguru College of Technology,B.Sc,AI,Coimbatore,Onsite,3,Sales Analytics,Suresh,22,28,80,4,11,3,5,5,5,4,No,Yes,0
+11,Tamilselvi,22,Male,Velammal Engineering College,B.Tech,AI,Chennai,Remote,2,Intern Insight Dashboard,Ravi,38,9,82,1,18,2,5,3,1,5,Yes,Yes,8000
+12,Manikandan,20,Male,PSG College of Technology,B.Tech,Cloud,Erode,Onsite,3,Sales Analytics,Suresh,22,21,89,4,7,2,4,5,3,3,No,No,0
+13,Yamini,20,Male,Coimbatore Institute of Technology,B.Sc,Full Stack,Coimbatore,Hybrid,6,Sales Analytics,Prakash,31,10,80,1,10,4,5,3,5,5,Yes,Yes,0
+14,Kowsalya,24,Male,University of Madras,B.Sc,AI,Erode,Hybrid,6,Data Visualization,Suresh,12,27,80,4,16,5,5,2,4,1,Yes,No,10000
+15,Swathi,23,Female,Kumaraguru College of Technology,B.Sc,Full Stack,Erode,Remote,2,Intern Insight Dashboard,Karthik,32,16,77,0,18,1,2,5,3,4,Yes,No,0
+16,Sivakumar,23,Male,Kongu Engineering College,MCA,Full Stack,Chennai,Remote,6,Customer Analysis,Suresh,24,27,94,3,18,4,2,3,1,3,No,No,10000
+17,Deepak Kumar,21,Male,Rajalakshmi Engineering College,B.Sc,Data Analyst,Coimbatore,Hybrid,6,Customer Analysis,Karthik,36,25,83,3,16,5,2,2,3,2,Yes,Yes,5000
+18,Udhay Kumar,21,Female,Loyola College Chennai,BCA,Cloud,Chennai,Hybrid,2,Data Visualization,Anand,11,9,96,3,15,1,3,4,2,1,Yes,Yes,10000
+19,Kowsalya,24,Female,University of Madras,MCA,Data Analyst,Chennai,Onsite,3,Sales Analytics,Anand,37,9,76,4,17,4,1,4,3,2,Yes,No,8000
+20,Vignesh Kumar,24,Male,Thiagarajar College of Engineering,B.Sc,Full Stack,Madurai,Onsite,3,ML Prediction Model,Ravi,19,29,98,4,5,1,5,1,4,1,Yes,No,8000
+21,Rajasekar,23,Female,Anna University,B.Tech,Data Analyst,Trichy,Hybrid,6,Data Visualization,Prakash,23,5,99,4,6,4,3,1,1,3,No,No,0
+22,Rajasekar,24,Female,SSN College of Engineering,B.Sc,Data Analyst,Salem,Onsite,6,Sales Analytics,Suresh,17,22,91,2,12,2,3,3,4,2,No,Yes,0
+23,Vijay Kumar,22,Female,Sathyabama Institute of Science and Technology,BCA,AI,Salem,Onsite,1,Customer Analysis,Karthik,27,11,71,2,11,4,1,2,2,1,Yes,No,8000
+24,Vijay Kumar,22,Male,Thiagarajar College of Engineering,BCA,Cloud,Salem,Hybrid,6,Data Visualization,Ravi,36,11,71,4,16,2,3,2,5,2,Yes,Yes,10000
+25,Ramesh Kumar,24,Male,Sathyabama Institute of Science and Technology,BCA,Cloud,Chennai,Remote,1,Sales Analytics,Karthik,27,34,97,4,15,3,5,2,4,1,Yes,Yes,0
+26,Durga,24,Female,Kumaraguru College of Technology,B.Tech,Full Stack,Chennai,Onsite,1,Sales Analytics,Anand,16,19,94,1,11,4,4,4,3,1,Yes,Yes,8000
+27,Divya,21,Male,Amrita Vishwa Vidyapeetham Coimbatore,B.Sc,Data Science,Salem,Hybrid,1,Data Visualization,Karthik,10,26,75,3,9,1,2,4,2,2,No,Yes,0
+28,Hariharan,24,Male,Anna University,MCA,Full Stack,Madurai,Hybrid,3,ML Prediction Model,Suresh,32,17,84,0,14,5,3,4,4,5,Yes,Yes,8000
+29,Sneha,22,Female,Kumaraguru College of Technology,BCA,AI,Erode,Hybrid,1,Intern Insight Dashboard,Anand,32,16,83,4,9,5,2,1,2,2,Yes,Yes,0
+30,Lavanya,24,Male,Bharathidasan University,MCA,Data Science,Salem,Remote,1,ML Prediction Model,Suresh,38,31,74,3,7,5,4,5,1,3,Yes,Yes,5000
+31,Geetha,21,Female,SRM Institute of Science and Technology,MCA,Data Science,Erode,Remote,1,Intern Insight Dashboard,Ravi,35,24,70,0,17,4,1,2,2,5,Yes,Yes,5000
+32,Hariharan,24,Female,SRM Institute of Science and Technology,BCA,Data Analyst,Salem,Onsite,1,Sales Analytics,Ravi,16,30,88,2,9,3,3,5,1,5,No,Yes,8000
+33,Sivakumar,24,Female,Bharathidasan University,BCA,Data Science,Salem,Remote,3,Intern Insight Dashboard,Karthik,32,26,76,4,9,2,3,2,2,5,No,No,10000
+34,Jagan,24,Male,University of Madras,BCA,Data Science,Coimbatore,Remote,6,ML Prediction Model,Suresh,20,31,74,4,9,3,5,4,4,3,Yes,Yes,8000
+35,Preethi,22,Female,PSG College of Technology,BCA,AI,Chennai,Hybrid,2,Sales Analytics,Karthik,10,13,93,0,5,3,4,1,3,1,Yes,Yes,10000
+36,Priyadharshini,22,Male,Bharathidasan University,B.Sc,AI,Coimbatore,Onsite,3,Data Visualization,Karthik,13,33,72,1,6,3,1,1,1,1,Yes,Yes,8000
+37,Senthil Kumar,23,Male,University of Madras,MCA,Data Science,Coimbatore,Hybrid,2,Customer Analysis,Anand,16,32,81,1,10,1,1,5,2,4,Yes,Yes,8000
+38,Kishore Kumar,22,Female,St Joseph's College Trichy,B.Tech,Cloud,Trichy,Onsite,3,Sales Analytics,Ravi,21,9,79,2,17,4,5,5,3,3,Yes,No,8000
+39,Shankar,20,Male,Coimbatore Institute of Technology,BCA,Data Analyst,Madurai,Onsite,3,ML Prediction Model,Karthik,22,21,92,4,18,5,1,5,4,1,No,Yes,8000
+40,Suresh Kumar,23,Male,Bharathidasan University,MCA,Full Stack,Madurai,Onsite,2,Customer Analysis,Prakash,32,5,83,1,19,4,2,1,3,2,No,Yes,5000
+41,Naveen Kumar,23,Female,Rajalakshmi Engineering College,B.Sc,Cloud,Trichy,Onsite,2,Sales Analytics,Prakash,31,12,97,2,8,4,4,4,1,3,Yes,Yes,5000
+42,Abinaya,22,Male,Rajalakshmi Engineering College,B.Tech,AI,Salem,Remote,2,Customer Analysis,Suresh,24,19,82,4,13,1,4,5,3,3,No,No,10000
+43,Indhu,22,Male,Kumaraguru College of Technology,MCA,Full Stack,Chennai,Hybrid,3,Intern Insight Dashboard,Ravi,32,31,82,2,14,4,3,4,1,3,No,No,5000
+44,Aishwarya,20,Male,Loyola College Chennai,MCA,Data Analyst,Madurai,Remote,3,Sales Analytics,Prakash,22,26,78,2,14,5,5,2,4,2,No,No,10000
+45,Rajasekar,22,Female,VIT Chennai,MCA,Data Science,Coimbatore,Remote,2,Intern Insight Dashboard,Anand,38,26,91,2,16,2,5,5,1,4,No,Yes,5000
+46,Sathyaraj,21,Female,SRM Institute of Science and Technology,B.Sc,Data Science,Trichy,Onsite,1,Sales Analytics,Karthik,26,19,81,1,16,5,1,5,1,1,No,Yes,8000
+47,Harish Kumar,23,Male,Rajalakshmi Engineering College,B.Tech,Data Analyst,Trichy,Onsite,6,Intern Insight Dashboard,Anand,12,9,90,0,10,2,5,5,2,2,No,No,0
+48,Sangeetha,20,Female,Bharathiar University,B.Sc,Full Stack,Chennai,Onsite,3,Sales Analytics,Suresh,24,13,78,3,8,2,2,3,4,2,Yes,Yes,5000
+49,Nandakumar,21,Female,PSG College of Technology,B.Sc,Data Science,Madurai,Remote,3,Sales Analytics,Anand,27,8,84,3,8,4,5,4,5,3,Yes,Yes,5000
+50,Durga,24,Male,Rajalakshmi Engineering College,MCA,Data Science,Salem,Hybrid,6,Data Visualization,Ravi,21,34,94,3,14,3,1,4,2,5,Yes,No,5000
+51,Harini,21,Female,Saveetha Engineering College,B.Tech,Data Science,Chennai,Remote,6,Customer Analysis,Anand,19,30,82,4,17,2,5,3,2,5,Yes,No,10000
+52,Anupriya,24,Female,PSG College of Technology,B.Sc,Data Analyst,Trichy,Onsite,1,Customer Analysis,Anand,36,12,75,4,6,1,4,5,1,5,No,Yes,10000
+53,Sudhakar,21,Female,Loyola College Chennai,MCA,Data Science,Salem,Onsite,6,Data Visualization,Suresh,20,18,89,1,19,2,1,4,2,1,Yes,Yes,8000
+54,Kishore Kumar,20,Male,St Joseph's College Trichy,MCA,Data Science,Chennai,Remote,1,Customer Analysis,Anand,36,17,95,1,7,3,3,3,1,3,Yes,No,5000
+55,Uma Maheswari,24,Female,Velammal Engineering College,B.Tech,Data Science,Trichy,Hybrid,2,Data Visualization,Anand,28,11,80,4,12,4,5,4,5,2,No,Yes,8000
+56,Aishwarya,24,Female,Rajalakshmi Engineering College,BCA,Data Analyst,Erode,Hybrid,6,Customer Analysis,Ravi,35,34,84,4,17,5,4,2,4,5,Yes,Yes,0
+57,Lavanya,21,Male,Coimbatore Institute of Technology,B.Tech,Data Science,Madurai,Hybrid,2,Intern Insight Dashboard,Prakash,29,32,89,1,12,3,4,5,4,5,No,Yes,5000
+58,Bharath Kumar,21,Female,Kumaraguru College of Technology,B.Tech,Full Stack,Madurai,Onsite,1,Sales Analytics,Suresh,39,19,85,0,18,2,1,4,1,1,Yes,No,10000
+59,Logesh,24,Male,Amrita Vishwa Vidyapeetham Coimbatore,MCA,Full Stack,Erode,Onsite,1,ML Prediction Model,Anand,36,8,82,1,15,1,4,5,5,1,Yes,No,10000
+60,Jeevitha,24,Female,KSR College of Technology,BCA,Cloud,Madurai,Remote,3,Intern Insight Dashboard,Karthik,38,5,89,0,14,1,2,5,1,3,Yes,No,0
+61,Nandakumar,21,Male,Coimbatore Institute of Technology,MCA,Data Science,Erode,Remote,1,ML Prediction Model,Prakash,10,31,72,0,6,2,3,2,2,5,Yes,No,0
+62,Arun Kumar,24,Male,University of Madras,BCA,AI,Erode,Remote,6,Customer Analysis,Anand,34,31,94,1,8,2,1,4,3,1,Yes,No,0
+63,Harish Kumar,21,Female,Loyola College Chennai,MCA,Cloud,Trichy,Hybrid,2,Sales Analytics,Anand,27,30,86,1,9,5,1,5,2,4,No,Yes,8000
+64,Karthikeyan,22,Female,Madurai Kamaraj University,B.Sc,Full Stack,Trichy,Onsite,3,ML Prediction Model,Prakash,31,28,81,1,17,2,5,5,1,2,No,Yes,0
+65,Suresh Kumar,21,Male,Kumaraguru College of Technology,BCA,Data Analyst,Chennai,Hybrid,1,Data Visualization,Anand,39,6,78,0,8,5,3,5,1,5,Yes,No,10000
+66,Pavithra,24,Female,Anna University,BCA,Full Stack,Salem,Remote,1,Data Visualization,Karthik,13,11,99,1,11,2,3,4,4,2,No,Yes,10000
+67,Kowsalya,22,Male,Thiagarajar College of Engineering,MCA,AI,Erode,Onsite,1,ML Prediction Model,Prakash,20,29,88,2,12,2,5,4,1,1,No,No,0
+68,Gayathri,23,Male,VIT Chennai,B.Tech,Full Stack,Trichy,Remote,2,Customer Analysis,Anand,35,26,96,2,18,4,5,2,3,2,No,Yes,0
+69,Jagan,23,Male,VIT Chennai,B.Sc,Data Science,Salem,Remote,3,Intern Insight Dashboard,Ravi,35,27,89,0,14,4,2,3,1,3,Yes,No,0
+70,Nandhini,22,Female,Velammal Engineering College,B.Sc,Full Stack,Erode,Onsite,6,Sales Analytics,Karthik,19,20,92,1,18,4,3,2,2,3,No,Yes,10000
+71,Ilayaraja,23,Female,St Joseph's College Trichy,MCA,Data Analyst,Coimbatore,Onsite,6,Customer Analysis,Suresh,15,7,88,4,5,3,4,4,4,1,No,No,5000
+72,Lavanya,22,Male,SRM Institute of Science and Technology,B.Tech,Data Analyst,Erode,Hybrid,2,Customer Analysis,Anand,20,12,84,4,10,1,5,3,5,5,No,No,0
+73,Geetha,22,Male,Kumaraguru College of Technology,B.Sc,Data Science,Erode,Onsite,6,Customer Analysis,Prakash,32,6,99,4,15,5,1,5,1,2,No,No,10000
+74,Gokul,23,Female,Kongu Engineering College,BCA,Data Science,Coimbatore,Remote,6,Intern Insight Dashboard,Karthik,14,30,95,0,15,4,1,5,4,4,No,Yes,10000
+75,Aravind,20,Male,VIT Chennai,MCA,Data Analyst,Salem,Remote,6,Customer Analysis,Suresh,10,14,75,4,11,4,1,5,3,5,Yes,No,8000
+76,Yamini,24,Male,Anna University,B.Sc,Data Science,Salem,Hybrid,3,ML Prediction Model,Suresh,27,6,77,3,18,5,3,5,2,3,Yes,No,10000
+77,Dhinesh,20,Female,Bharathidasan University,BCA,AI,Coimbatore,Onsite,3,ML Prediction Model,Karthik,25,14,82,3,9,1,5,2,1,4,No,Yes,5000
+78,Dinesh Kumar,23,Male,St Joseph's College Trichy,B.Tech,Data Science,Erode,Hybrid,3,Customer Analysis,Anand,39,19,79,1,14,1,1,1,4,1,Yes,No,0
+79,Uma Maheswari,24,Female,Bharathiar University,MCA,Full Stack,Trichy,Remote,2,ML Prediction Model,Suresh,26,22,88,1,5,3,2,1,2,4,Yes,Yes,0
+80,Indhu,23,Female,SSN College of Engineering,B.Tech,AI,Trichy,Onsite,1,Intern Insight Dashboard,Suresh,31,26,71,3,7,3,3,4,2,4,Yes,No,0
+81,Shalini,24,Male,VIT Chennai,B.Tech,AI,Erode,Hybrid,3,ML Prediction Model,Suresh,19,5,97,1,17,3,3,2,3,5,No,No,0
+82,Meena,20,Male,SSN College of Engineering,MCA,Full Stack,Coimbatore,Remote,3,Data Visualization,Anand,29,7,97,1,11,5,1,1,1,5,Yes,Yes,8000
+83,Vinodhini,21,Male,Bharathidasan University,MCA,Full Stack,Coimbatore,Remote,1,ML Prediction Model,Ravi,16,27,92,1,13,4,1,3,5,5,No,No,8000
+84,Tamilselvi,24,Female,Coimbatore Institute of Technology,BCA,Full Stack,Salem,Remote,3,Intern Insight Dashboard,Suresh,15,15,92,1,13,2,2,1,2,3,Yes,Yes,0
+85,Praveen Kumar,22,Female,Anna University,BCA,Cloud,Chennai,Remote,2,Data Visualization,Ravi,17,30,70,1,14,5,1,4,5,2,No,No,10000
+86,Sathish Kumar,22,Male,Rajalakshmi Engineering College,B.Sc,Cloud,Chennai,Onsite,2,Data Visualization,Anand,32,31,88,3,12,5,4,4,1,4,Yes,Yes,5000
+87,Nandakumar,24,Female,Saveetha Engineering College,MCA,Full Stack,Coimbatore,Onsite,6,ML Prediction Model,Ravi,20,9,72,0,17,4,4,5,3,4,No,Yes,8000
+88,Keerthana,24,Female,Anna University,BCA,Cloud,Chennai,Remote,2,Intern Insight Dashboard,Ravi,22,21,87,4,5,5,2,2,2,2,Yes,Yes,5000
+89,Shankar,23,Female,SSN College of Engineering,MCA,Cloud,Chennai,Remote,6,ML Prediction Model,Karthik,23,22,92,0,10,2,3,1,4,4,Yes,Yes,0
+90,Ajith Kumar,20,Female,Kongu Engineering College,B.Tech,Full Stack,Salem,Onsite,6,ML Prediction Model,Suresh,25,5,75,0,15,1,2,4,2,2,Yes,Yes,8000
+91,Sivakumar,21,Female,Bharathiar University,B.Tech,Data Science,Trichy,Onsite,2,Data Visualization,Anand,21,27,73,3,8,2,5,1,5,4,Yes,Yes,8000
+92,Karthik Raja,22,Female,Coimbatore Institute of Technology,BCA,Full Stack,Trichy,Hybrid,1,ML Prediction Model,Prakash,30,16,90,3,8,1,4,2,4,4,Yes,Yes,10000
+93,Sakthivel,23,Male,Bharathiar University,BCA,Data Science,Erode,Remote,6,Data Visualization,Prakash,19,13,96,4,16,3,4,5,2,1,Yes,No,10000
+94,Shobana,23,Male,Anna University,MCA,Full Stack,Coimbatore,Hybrid,1,Intern Insight Dashboard,Anand,26,10,74,4,7,2,3,2,3,3,Yes,Yes,10000
+95,Prabhakaran,22,Female,Rajalakshmi Engineering College,MCA,Full Stack,Trichy,Onsite,1,Data Visualization,Prakash,28,15,98,2,11,5,1,5,4,4,Yes,Yes,5000
+96,Bhavani,23,Male,Saveetha Engineering College,BCA,Full Stack,Salem,Remote,1,Intern Insight Dashboard,Prakash,37,13,84,2,15,5,3,3,2,5,Yes,No,8000
+97,Elango,24,Male,Kumaraguru College of Technology,MCA,Full Stack,Salem,Hybrid,1,Data Visualization,Suresh,27,8,93,0,16,3,3,1,5,1,No,No,0
+98,Nivetha,20,Female,Velammal Engineering College,BCA,Data Analyst,Trichy,Onsite,1,Intern Insight Dashboard,Prakash,26,6,82,2,11,3,5,1,3,5,No,Yes,5000
+99,Murugan,21,Male,Saveetha Engineering College,B.Sc,Cloud,Erode,Onsite,3,Intern Insight Dashboard,Karthik,16,9,71,0,9,5,2,2,5,2,No,Yes,10000
+100,Ilayaraja,24,Female,Kumaraguru College of Technology,B.Tech,Full Stack,Erode,Remote,1,Data Visualization,Prakash,31,28,77,4,5,2,4,1,3,3,No,No,0
